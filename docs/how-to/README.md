@@ -17,13 +17,10 @@
 - [未出走ユーザーの扱いについて](single-race/README.md#未出走ユーザーの扱いについて)
 
 ## 投票機能
-- [投票とは](single-race/README.md#投票とは)
-- [投票有効条件](single-race/README.md#投票有効条件)
-- [ポイントについて](single-race/README.md#ポイントについて)
-- [ウマチケについて](single-race/README.md#ウマチケについて)
-- [投票方法](single-race/README.md#投票方法)
-- [オッズについて](single-race/README.md#オッズについて)
-- [分配率について](single-race/README.md#分配率について)
+- [投票とは](vote/README.md#投票とは)
+- [投票有効条件](vote/README.md#投票有効条件)
+- [ウマチケについて](vote/README.md#ウマチケについて)
+- [投票方法](vote/README.md#投票方法)
 
 ## 大会機能（未実装）
 - 大会とは
