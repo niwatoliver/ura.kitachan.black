@@ -1,8 +1,8 @@
 ---
 name: 要望
 about: こういう機能がほしい！とかここもっとこうなるんじゃない？？？とか
-title: 'Youbou_〇〇'
-labels: 'Youbou'
+title: '要望_〇〇'
+labels: '要望'
 
 ---
 
