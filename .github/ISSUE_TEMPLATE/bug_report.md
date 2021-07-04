@@ -1,5 +1,5 @@
 ---
-name: バグ
+name: バグ報告
 about: ここが壊れとる～～～～～！！
 title: 'Bug_〇〇'
 labels: 'Bug'
@@ -7,7 +7,7 @@ labels: 'Bug'
 ---
 
 ---
-name: バグ
+name: バグ報告
 about: ここが壊れとる～～～～～！！！の報告
 
 ---
